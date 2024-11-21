@@ -11,4 +11,6 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    base: '/proyecto/', // Cambia "proyecto" por el nombre de tu subdirectorio, si aplica.
 });
+
