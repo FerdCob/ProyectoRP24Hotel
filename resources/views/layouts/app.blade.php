@@ -14,9 +14,8 @@
 
     <!-- Fonts Awesome -->
     <script src="https://kit.fontawesome.com/27a9fd3a86.js" crossorigin="anonymous"></script>
-
-    <!-- Scripts -->
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
+    <link rel="stylesheet" href="{{ asset('build/assets/app.css') }}">
+    <script src="{{ asset('build/assets/app.js') }}" defer></script>
 
     <!-- Styles -->
     @livewireStyles
