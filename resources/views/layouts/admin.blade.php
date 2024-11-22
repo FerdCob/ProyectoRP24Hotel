@@ -19,8 +19,8 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!-- Chart Js-->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="{{ asset('build/assets/app.css') }}">
-    <script src="{{ asset('build/assets/app.js') }}" defer></script>
+    <link rel="stylesheet" href="{{ asset('build/assets/app-l9pI5v17.css') }}">
+    <script src="{{ asset('build/assets/app-l9pI5v17.css') }}" defer></script>
 
 
     <!-- Styles -->

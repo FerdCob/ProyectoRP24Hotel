@@ -14,8 +14,8 @@
 
     <!-- Fonts Awesome -->
     <script src="https://kit.fontawesome.com/27a9fd3a86.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="{{ asset('build/assets/app.css') }}">
-    <script src="{{ asset('build/assets/app.js') }}" defer></script>
+    <link rel="stylesheet" href="{{ asset('build/assets/app-l9pI5v17.css') }}">
+    <script src="{{ asset('build/assets/app-l9pI5v17.css') }}" defer></script>
 
     <!-- Styles -->
     @livewireStyles
